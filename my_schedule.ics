@@ -2,93 +2,93 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-DESCRIPTION:Originally Posted: 2026-01-21\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61804
-SUMMARY:📢 Week 2 Thursday Class: Please be PHYSICALLY PRESENT in the classroom (LT/RL/PH 337-S1)
-UID:2976e5a0-496f-45be-bac3-fdfdb79aad5e@2976.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-DESCRIPTION:Originally Posted: 2026-01-25\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61919
-SUMMARY:📢 Week 3 Tuesday January 27 & Book Presentation (LT/RL/PH 337-S1)
-UID:14a43419-d254-4d6f-b34c-7569c34facfc@14a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-DESCRIPTION:Originally Posted: 2026-01-21\nhttps://hulms.instructure.com/courses/5054/discussion_topics/61809
-SUMMARY:📢 🧩 Quiz 01 (ENVS/SDP 202/252-L1)
-UID:b810334e-262d-455b-a22c-301634cef1ae@b810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5060/assignments/62946
-DTSTART:20260130T185900Z
-SUMMARY:📝 Reflection Paper Week 3 (LT/RL/PH 337-S1)
-UID:35ca6958-748e-42ac-ac1f-67fde1268e70@35ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-DESCRIPTION:Originally Posted: 2026-01-21\nhttps://hulms.instructure.com/courses/5014/discussion_topics/61786
-SUMMARY:📢 Important Policy Reminder (HUM/PHIL 401-S1)
-UID:36ee869c-9426-43a8-813b-35b4cb713a25@36ee.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 DESCRIPTION:Originally Posted: 2026-01-23\nhttps://hulms.instructure.com/courses/5014/discussion_topics/61881
 SUMMARY:📢 Assignment #3 (HUM/PHIL 401-S1)
-UID:d934781e-8e5f-4ce2-8da8-729f486f3a8d@d934.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260114
-DESCRIPTION:Originally Posted: 2026-01-14\nhttps://hulms.instructure.com/courses/5014/discussion_topics/61488
-SUMMARY:📢 Writing (HUM/PHIL 401-S1)
-UID:6aa32d00-6627-488e-bca0-28f379c20fe0@6aa3.org
+UID:d1aae5d7-fb2f-4a3a-89b8-e0a7cf26bab7@d1aa.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260126
 DESCRIPTION:Originally Posted: 2026-01-26\nhttps://hulms.instructure.com/courses/5054/discussion_topics/61931
 SUMMARY:📢 Quiz 01 related (ENVS/SDP 202/252-L1)
-UID:0f5ed49d-df00-4002-9b94-93633d6f1237@0f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Originally Posted: 2026-01-10\nhttps://hulms.instructure.com/courses/5060/discussion_topics/60933
-SUMMARY:📢 Our First Class on Tuesday the 13th of January (LT/RL/PH 337-S1)
-UID:63afbd62-85f9-43be-a51d-b73563356e57@63af.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260122
-DESCRIPTION:Originally Posted: 2026-01-22\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61833
-SUMMARY:📢 Tentative Table for Book Presentations\, and Reminder for the 2nd Reflection Paper (LT/RL/PH 337-S1)
-UID:5eaf5271-b1bb-4b14-a69e-c618d18b5b65@5eaf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260117
-DESCRIPTION:Originally Posted: 2026-01-17\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61651
-SUMMARY:📢 Reminder: 1st Weekly Reflection is Due Tonight by 11:59 pm Karachi Time (LT/RL/PH 337-S1)
-UID:1615f473-59c2-4569-84f4-3969c163e49c@1615.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4851/assignments/62759
-DTSTART:20260128T063000Z
-SUMMARY:📝 Week 3 discussion (RL/MS/AT 333-S1)
-UID:1bd27622-103f-46ba-b4f6-2bfb4a58fe6f@1bd2.org
+UID:011fc9cf-f5e0-41a8-aa9f-faeb9336f93f@011f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
 DESCRIPTION:Originally Posted: 2026-01-21\nhttps://hulms.instructure.com/courses/5054/discussion_topics/61815
 SUMMARY:📢 Class Project Groups  (ENVS/SDP 202/252-L1)
-UID:cd258cfd-eb52-4668-9375-466b839315dd@cd25.org
+UID:021463b7-78bd-424c-b566-bfbd2a9abc84@0214.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260119
-DESCRIPTION:Originally Posted: 2026-01-19\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61706
-SUMMARY:📢 Week 2 Tuesday Meeting and Teams Link (LT/RL/PH 337-S1)
-UID:78dbc0ef-abf2-4699-b02c-9f0c38c14e25@78db.org
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Originally Posted: 2026-01-10\nhttps://hulms.instructure.com/courses/5060/discussion_topics/60933
+SUMMARY:📢 Our First Class on Tuesday the 13th of January (LT/RL/PH 337-S1)
+UID:629da1a0-e12b-43c5-8f59-7116a56fdbd0@629d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4851/assignments/62759
+DTSTART:20260128T063000Z
+SUMMARY:📝 Week 3 discussion (RL/MS/AT 333-S1)
+UID:151d3d51-c265-4a1a-b9e4-326922a04682@151d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5060/assignments/62946
+DTSTART:20260130T185900Z
+SUMMARY:📝 Reflection Paper Week 3 (LT/RL/PH 337-S1)
+UID:9134d96f-eea4-4048-bc88-f70da2ba4d3e@9134.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 DESCRIPTION:Originally Posted: 2026-01-14\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61482
 SUMMARY:📢 Week 1 Thursday Meeting and Teams link (LT/RL/PH 337-S1)
-UID:4805f2db-2658-4998-b108-bc8566b08acf@4805.org
+UID:e5d2f808-312d-4e51-994c-5af70b033546@e5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Originally Posted: 2026-01-21\nhttps://hulms.instructure.com/courses/5014/discussion_topics/61786
+SUMMARY:📢 Important Policy Reminder (HUM/PHIL 401-S1)
+UID:0927fabb-5868-4489-93c5-c5dd2b7b6f25@0927.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260117
+DESCRIPTION:Originally Posted: 2026-01-17\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61651
+SUMMARY:📢 Reminder: 1st Weekly Reflection is Due Tonight by 11:59 pm Karachi Time (LT/RL/PH 337-S1)
+UID:63ccdec4-0df2-45a1-a185-88117b311a9d@63cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Originally Posted: 2026-01-19\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61706
+SUMMARY:📢 Week 2 Tuesday Meeting and Teams Link (LT/RL/PH 337-S1)
+UID:a07ffaea-5db6-4043-9d7a-59bdecb1398b@a07f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Originally Posted: 2026-01-14\nhttps://hulms.instructure.com/courses/5014/discussion_topics/61488
+SUMMARY:📢 Writing (HUM/PHIL 401-S1)
+UID:b9b9af3f-30cf-4050-83e1-e027a6a1436e@b9b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Originally Posted: 2026-01-21\nhttps://hulms.instructure.com/courses/5054/discussion_topics/61809
+SUMMARY:📢 🧩 Quiz 01 (ENVS/SDP 202/252-L1)
+UID:301ada91-dd6c-406b-ac61-306e81cb87d3@301a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Originally Posted: 2026-01-22\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61833
+SUMMARY:📢 Tentative Table for Book Presentations\, and Reminder for the 2nd Reflection Paper (LT/RL/PH 337-S1)
+UID:63308c18-4c10-4019-adab-fa4fdecad7e0@6330.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Originally Posted: 2026-01-25\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61919
+SUMMARY:📢 Week 3 Tuesday January 27 & Book Presentation (LT/RL/PH 337-S1)
+UID:6f5cef5e-39e7-4dc1-8fe6-6509b46ca4af@6f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Originally Posted: 2026-01-21\nhttps://hulms.instructure.com/courses/5060/discussion_topics/61804
+SUMMARY:📢 Week 2 Thursday Class: Please be PHYSICALLY PRESENT in the classroom (LT/RL/PH 337-S1)
+UID:6f24b916-d573-4e9a-b692-8e9d420e202a@6f24.org
 END:VEVENT
 END:VCALENDAR
