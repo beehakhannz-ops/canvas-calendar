@@ -2,105 +2,123 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-DESCRIPTION:Originally Posted: 2026-02-28\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63234
-SUMMARY:📢 Week 8: Tuesday Reading and Midterm Exam on Thursday (LT/RL/PH 337-S1)
-UID:a4b13a03-0b46-451e-90fc-e97bd49e50b2@a4b1.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/5014/discussion_topics/63050
-SUMMARY:📢 Lecture Slides (HUM/PHIL 401-S1)
-UID:76f46099-6d59-4eac-8d1b-fd72b3fca027@76f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260218
-DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/5014/discussion_topics/62779
-SUMMARY:📢 Late start (HUM/PHIL 401-S1)
-UID:a216ddbb-14ba-4665-8d2d-0e78098268cf@a216.org
+DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/5014/discussion_topics/63049
+SUMMARY:📢 Password for Lecture PDF (HUM/PHIL 401-S1)
+UID:511cf6d1-9a45-4f55-948d-74928654179a@511c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260223
 DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/4832/discussion_topics/62974
 SUMMARY:📢 Quiz-2 (PHIL 326-L1)
-UID:f9af25fd-b1b2-4572-ba92-e06e7a2ecb73@f9af.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260210
-DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62389
-SUMMARY:📢 Week 5: Feb 10  (LT/RL/PH 337-S1)
-UID:8eb360d1-df71-418b-9fa6-0819b3d9d40f@8eb3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260223
-DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62986
-SUMMARY:📢 Week 7 (LT/RL/PH 337-S1)
-UID:b72589c2-7a46-47d4-96b0-6f87f8c7a344@b725.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
-DESCRIPTION:Originally Posted: 2026-02-11\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62527
-SUMMARY:📢 Week 5 (February 12) (LT/RL/PH 337-S1)
-UID:d1f86246-a052-4020-9a55-999b1aa5b822@d1f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Originally Posted: 2026-02-15\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62633
-SUMMARY:📢 Week 6 (LT/RL/PH 337-S1)
-UID:0280905f-dc8d-426c-aaac-a5e310ed54ca@0280.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5054/assignments/64179
-DTSTART:20260310T185959Z
-SUMMARY:📝 Assignment 01 (ENVS/SDP 202/252-L1)
-UID:8248398b-9321-4051-a3b6-eb7231de4868@8248.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/5014/discussion_topics/63049
-SUMMARY:📢 Password for Lecture PDF (HUM/PHIL 401-S1)
-UID:a95d4832-6621-4e21-b766-1dc3bf584a72@a95d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/5014/discussion_topics/62385
-SUMMARY:📢 Bring Laptops (HUM/PHIL 401-S1)
-UID:0939b0c2-812f-4216-bac2-4a48c1b7d87d@0939.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Originally Posted: 2026-03-06\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63536
-SUMMARY:📢 Midterm Grades Submitted (LT/RL/PH 337-S1)
-UID:1d219c3c-7e7a-4328-870b-a5e6f3ef3564@1d21.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260303
-DESCRIPTION:Originally Posted: 2026-03-03\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63319
-SUMMARY:📢 Class Today is in Person as Ususal (LT/RL/PH 337-S1)
-UID:93673672-377e-41fd-99d6-9ee59bd5b92c@9367.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Originally Posted: 2026-02-15\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62632
-SUMMARY:📢 Reflection Paper Week 5 deadline extended until tonight at 11:59 pm (LT/RL/PH 337-S1)
-UID:d5b06518-3526-433a-9836-6a43871e6927@d5b0.org
+UID:ee3c35b9-d218-4099-baf4-47a4efcf39fa@ee3c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 DESCRIPTION:Originally Posted: 2026-02-11\nhttps://hulms.instructure.com/courses/5014/discussion_topics/62509
 SUMMARY:📢 Exercise #1 (HUM/PHIL 401-S1)
-UID:ef7403f0-8fe2-47e5-bc31-03d4fcbc37b0@ef74.org
+UID:de246141-a0ad-4b7d-ae83-4d9a673c9f0d@de24.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63093
-SUMMARY:📢 Week 7 2/26/26 (LT/RL/PH 337-S1)
-UID:bee18c16-86ec-4d2e-86e6-f85b106842ac@bee1.org
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Originally Posted: 2026-02-15\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62632
+SUMMARY:📢 Reflection Paper Week 5 deadline extended until tonight at 11:59 pm (LT/RL/PH 337-S1)
+UID:1519e94d-2e95-4215-a9ad-c99aacb8c889@1519.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:Originally Posted: 2026-03-08\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63592
+SUMMARY:📢 Week 9 Materials  (LT/RL/PH 337-S1)
+UID:343d3c10-905e-4fd3-94fa-f91741c0b949@343d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/5014/discussion_topics/63050
+SUMMARY:📢 Lecture Slides (HUM/PHIL 401-S1)
+UID:c1638535-def8-4aac-b2f1-46476e29ba92@c163.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62389
+SUMMARY:📢 Week 5: Feb 10  (LT/RL/PH 337-S1)
+UID:9622aa58-24c5-4abb-bdbe-c1cf348865f5@9622.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Originally Posted: 2026-03-06\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63536
+SUMMARY:📢 Midterm Grades Submitted (LT/RL/PH 337-S1)
+UID:ad7239ef-614a-4bb7-97db-5f95e43ff350@ad72.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
 DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/5014/discussion_topics/62388
 SUMMARY:📢 Error ... Laptops for Wednesday (HUM/PHIL 401-S1)
-UID:b838115d-03a9-4a98-8602-0d8ac2a32ca7@b838.org
+UID:f848aba2-c03f-4752-9d0d-63288efe8c15@f848.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Originally Posted: 2026-02-11\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62527
+SUMMARY:📢 Week 5 (February 12) (LT/RL/PH 337-S1)
+UID:1e1ceefe-5d80-40ae-b1d8-fdc3ea8d7c7d@1e1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/5014/discussion_topics/62779
+SUMMARY:📢 Late start (HUM/PHIL 401-S1)
+UID:7fb11c0c-e5a3-411f-b41c-d5edd4e7da76@7fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:Originally Posted: 2026-03-08\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63594
+SUMMARY:📢 Water Quality Lab 🧪 (ENVS/SDP 202/252-L1)
+UID:e6f9fb34-4d43-4002-846e-315ec2e4f5cb@e6f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Originally Posted: 2026-02-15\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62633
+SUMMARY:📢 Week 6 (LT/RL/PH 337-S1)
+UID:85e6f231-88a7-47fb-b432-be1d2e554676@85e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/5060/discussion_topics/62986
+SUMMARY:📢 Week 7 (LT/RL/PH 337-S1)
+UID:0f81d5d3-24ef-441b-b5d8-456a4cc96c41@0f81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5060/assignments/64617
+DTSTART:20260313T185959Z
+SUMMARY:📝 Reflection Paper Week 9 (LT/RL/PH 337-S1)
+UID:bbd556b7-d117-4e6f-8daf-65b4ce35844b@bbd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/5014/discussion_topics/62385
+SUMMARY:📢 Bring Laptops (HUM/PHIL 401-S1)
+UID:2f099a6f-106e-4687-ba3f-9d75911379eb@2f09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:Originally Posted: 2026-02-28\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63234
+SUMMARY:📢 Week 8: Tuesday Reading and Midterm Exam on Thursday (LT/RL/PH 337-S1)
+UID:0958b2e0-10cf-4d6a-94a4-733f217b6987@0958.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Originally Posted: 2026-03-03\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63319
+SUMMARY:📢 Class Today is in Person as Ususal (LT/RL/PH 337-S1)
+UID:4679a200-4190-4f16-8973-4f13638607c1@4679.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63093
+SUMMARY:📢 Week 7 2/26/26 (LT/RL/PH 337-S1)
+UID:2e413aef-cb22-410f-9a87-9f93d992138b@2e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5054/assignments/64179
+DTSTART:20260310T185959Z
+SUMMARY:📝 Assignment 01 (ENVS/SDP 202/252-L1)
+UID:ea8aec43-0e6e-4a97-b5b2-665d241ef99a@ea8a.org
 END:VEVENT
 END:VCALENDAR
