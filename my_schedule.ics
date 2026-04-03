@@ -2,201 +2,201 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Originally Posted: 2026-03-16\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63956
-SUMMARY:📢 Interesting series of announcements... (ENVS/SDP 202/252-L1)
-UID:7031c345-7b89-4d07-a378-b3a68dae8355@7031.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Originally Posted: 2026-03-20\nhttps://hulms.instructure.com/courses/5060/discussion_topics/64068
-SUMMARY:📢 Week 11 and the initial draft of the final project due date (LT/RL/PH 337-S1)
-UID:56beaebb-5313-4f2c-bb1e-0c5603c653a5@56be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260330
-DESCRIPTION:Originally Posted: 2026-03-30\nhttps://hulms.instructure.com/courses/5000/discussion_topics/64583
-SUMMARY:📢 In-Person Classes & Revised Schedule (HIST 103-S1)
-UID:7212a19f-36ad-4543-b994-6beffae59a97@7212.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Originally Posted: 2026-03-06\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63536
-SUMMARY:📢 Midterm Grades Submitted (LT/RL/PH 337-S1)
-UID:acff4f77-e93f-4292-87f3-7b015b80882c@acff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Originally Posted: 2026-03-29\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64512
-SUMMARY:📢 Make Up Quiz (ENVS/SDP 202/252-L1)
-UID:4eb9e196-0f24-479e-98f3-d3963253cd5b@4eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260324
-DESCRIPTION:Originally Posted: 2026-03-23\nhttps://hulms.instructure.com/courses/5000/discussion_topics/64103
-SUMMARY:📢 Changing to online sessions and no class tomorrow (March 24) (HIST 103-S1)
-UID:d5313bf1-b84c-49c3-b573-406119dc1bf1@d531.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 DESCRIPTION:Originally Posted: 2026-03-29\nhttps://hulms.instructure.com/courses/5060/discussion_topics/64492
 SUMMARY:📢 The clock is ticking folks!  (LT/RL/PH 337-S1)
-UID:44c87161-bc8c-4587-9777-e6aebf0c3072@44c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260330
-DESCRIPTION:Originally Posted: 2026-03-30\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64574
-SUMMARY:📢 Class back to IDEAL 🥵 (ENVS/SDP 202/252-L1)
-UID:04549ac2-2d0b-4249-8610-fb09f1ab43c7@0454.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Originally Posted: 2026-03-27\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64438
-SUMMARY:📢 Graded Work updates! (ENVS/SDP 202/252-L1)
-UID:7c561806-3acc-40ab-b257-2ac49f799fd3@7c56.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Originally Posted: 2026-03-13\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63849
-SUMMARY:📢 📣 Quiz 02 and 03 Announcement  (ENVS/SDP 202/252-L1)
-UID:7d88403f-8028-4f26-a2d4-f00053105848@7d88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Originally Posted: 2026-03-17\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64001
-SUMMARY:📢 Weather Advisory by PMD (ENVS/SDP 202/252-L1)
-UID:cf762f58-6d3c-436e-9097-0af8c0b5b2df@cf76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4851/assignments/64918
-DTSTART:20260408T185900Z
-SUMMARY:📝 Quiz 2 - Transcendentalism (RL/MS/AT 333-S1)
-UID:d9aa15b1-7e1f-48f7-bc6f-e49146d47849@d9aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260402
-DESCRIPTION:Originally Posted: 2026-04-01\nhttps://hulms.instructure.com/courses/5060/discussion_topics/64708
-SUMMARY:📢 The Class is cancelled on Thursday April 2nd and Rescheduled for Saturday April 11th (LT/RL/PH 337-S1)
-UID:ea5706cb-ba45-4300-a3d8-694dec2c94be@ea57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:Originally Posted: 2026-03-22\nhttps://hulms.instructure.com/courses/5060/discussion_topics/64080
-SUMMARY:📢 Final Reminder to submit your Weekly Reflections (LT/RL/PH 337-S1)
-UID:783dc4a4-1ebb-42d7-a63f-151840dac5f8@783d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Originally Posted: 2026-03-29\nhttps://hulms.instructure.com/courses/5014/discussion_topics/64513
-SUMMARY:📢 Readings and Activities this week (HUM/PHIL 401-S1)
-UID:d5626497-94dd-4add-a438-057489073aae@d562.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260323
-DESCRIPTION:Originally Posted: 2026-03-23\nhttps://hulms.instructure.com/courses/5014/discussion_topics/64136
-SUMMARY:📢 This Week (HUM/PHIL 401-S1)
-UID:ed943730-3896-4e89-877a-cd2ab143394a@ed94.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260303
-DESCRIPTION:Originally Posted: 2026-03-03\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63319
-SUMMARY:📢 Class Today is in Person as Ususal (LT/RL/PH 337-S1)
-UID:47a15b7f-e4bd-4ee3-af04-fd955d40e5e9@47a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Originally Posted: 2026-03-29\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64519
-SUMMARY:📢 Your use of AI in Quiz 02 (ENVS/SDP 202/252-L1)
-UID:12522f35-c478-4a12-9864-e3f70c470fc0@1252.org
+UID:32bfb150-30da-4524-88d6-c2c85df3822e@32bf.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260325
 DESCRIPTION:Originally Posted: 2026-03-25\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64320
 SUMMARY:📢 Weekend Homework (graded) (ENVS/SDP 202/252-L1)
-UID:04c4b446-ba88-4d0a-b231-f3fbb8fa12dc@04c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260309
-DESCRIPTION:Originally Posted: 2026-03-09\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63669
-SUMMARY:📢 🚗 Eco - Excursion Tour (aka field trip)  (ENVS/SDP 202/252-L1)
-UID:40dbc63f-a0e8-420e-99eb-688fc453867a@40db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:Originally Posted: 2026-03-08\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63592
-SUMMARY:📢 Week 9 Materials  (LT/RL/PH 337-S1)
-UID:61ab77a7-32d0-4ee5-85ad-d9ae9493ba9b@61ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260326
-DESCRIPTION:Originally Posted: 2026-03-26\nhttps://hulms.instructure.com/courses/4832/discussion_topics/64399
-SUMMARY:📢 Make-up Class on April\, 11th. (PHIL 326-L1)
-UID:c952ec9b-6d5c-47ce-a791-ccf13aa3620c@c952.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5054/assignments/64181
-DTSTART:20260402T185959Z
-SUMMARY:📝 Climate Comics 🎡 (ENVS/SDP 202/252-L1)
-UID:701bf551-63a5-4cd4-9e57-bf7e003a6ca0@701b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Originally Posted: 2026-03-16\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63957
-SUMMARY:📢 Eco - Excursion Registration Form 🚗 (ENVS/SDP 202/252-L1)
-UID:52698d99-6c6c-44e0-ab67-807c798ea9b6@5269.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:Originally Posted: 2026-03-08\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63594
-SUMMARY:📢 Water Quality Lab 🧪 (ENVS/SDP 202/252-L1)
-UID:383e0737-6953-40f8-894b-2ad574968d4a@383e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260402
-DESCRIPTION:Originally Posted: 2026-04-02\nhttps://hulms.instructure.com/courses/5000/discussion_topics/64723
-SUMMARY:📢 Class canceled due to weather (HIST 103-S1)
-UID:fd2ca60b-8ffb-4039-a648-275286838d47@fd2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:Originally Posted: 2026-03-08\nhttps://hulms.instructure.com/courses/5014/discussion_topics/63607
-SUMMARY:📢 Techne (HUM/PHIL 401-S1)
-UID:c4154ab6-6325-4aca-a84a-7bc421f0be07@c415.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5060/assignments/65298
-DTSTART:20260403T185900Z
-SUMMARY:📝 Reflection Paper Week 12 (LT/RL/PH 337-S1)
-UID:118ecc77-0f38-4f3a-91f1-c9e2d42840d7@118e.org
+UID:44b05328-e383-4787-a75b-5ba2ff7f17a1@44b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/4851/assignments/64925
 DTSTART:20260408T185900Z
 SUMMARY:📝 Week 13 discussion (RL/MS/AT 333-S1)
-UID:164a43ea-9e8f-46eb-b002-773e7c69ca94@164a.org
+UID:ad2eac84-4042-469a-b1f8-f0be5e2f1b66@ad2e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:Originally Posted: 2026-03-15\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63890
-SUMMARY:📢 Week 10 (LT/RL/PH 337-S1)
-UID:4cfd3b43-5d44-49e0-bd67-46f4e74999d8@4cfd.org
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Originally Posted: 2026-04-02\nhttps://hulms.instructure.com/courses/5014/discussion_topics/64750
+SUMMARY:📢 Sheehan Reading (HUM/PHIL 401-S1)
+UID:7c65eeb7-1a03-41a0-8e84-36fe1ebe5772@7c65.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260401
-DESCRIPTION:Originally Posted: 2026-04-01\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64709
-SUMMARY:📢 Field Trip Postponement ⏭️ (ENVS/SDP 202/252-L1)
-UID:e74456d3-4fab-4843-824f-224df0c9124c@e744.org
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Originally Posted: 2026-03-17\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64001
+SUMMARY:📢 Weather Advisory by PMD (ENVS/SDP 202/252-L1)
+UID:1784dc1c-6bfa-4906-97d9-24e61b05e672@1784.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Originally Posted: 2026-03-06\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63536
+SUMMARY:📢 Midterm Grades Submitted (LT/RL/PH 337-S1)
+UID:ba29e990-d565-4fab-889a-80accf78e312@ba29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:Originally Posted: 2026-03-08\nhttps://hulms.instructure.com/courses/5014/discussion_topics/63607
+SUMMARY:📢 Techne (HUM/PHIL 401-S1)
+UID:8efd0121-be77-438d-895b-8975855431cf@8efd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/4851/assignments/64930
 DTSTART:20260408T185900Z
 SUMMARY:📝 Part 2 - Transcendentalism  (RL/MS/AT 333-S1)
-UID:667a149f-9aab-417d-bbd7-75737a792110@667a.org
+UID:9dcf1e83-3f2f-4f2d-b567-affd65f24741@9dcf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Originally Posted: 2026-03-29\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64512
+SUMMARY:📢 Make Up Quiz (ENVS/SDP 202/252-L1)
+UID:329cbe14-0d41-46de-83d8-49bfebfca4c9@329c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Originally Posted: 2026-03-26\nhttps://hulms.instructure.com/courses/4832/discussion_topics/64399
+SUMMARY:📢 Make-up Class on April\, 11th. (PHIL 326-L1)
+UID:e84a74be-bd6b-470f-8b69-6d700714e3bb@e84a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Originally Posted: 2026-03-16\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63956
+SUMMARY:📢 Interesting series of announcements... (ENVS/SDP 202/252-L1)
+UID:acb067ac-3523-4855-a153-cfc76b054756@acb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Originally Posted: 2026-03-27\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64438
+SUMMARY:📢 Graded Work updates! (ENVS/SDP 202/252-L1)
+UID:7dd00c98-ec91-43e2-81c4-fef31c8d0c8e@7dd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Originally Posted: 2026-03-20\nhttps://hulms.instructure.com/courses/5060/discussion_topics/64068
+SUMMARY:📢 Week 11 and the initial draft of the final project due date (LT/RL/PH 337-S1)
+UID:06042943-54b9-4c26-8421-1ea056138780@0604.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Originally Posted: 2026-03-23\nhttps://hulms.instructure.com/courses/5000/discussion_topics/64103
+SUMMARY:📢 Changing to online sessions and no class tomorrow (March 24) (HIST 103-S1)
+UID:12107767-18d8-4d53-81fe-257a7d9872e8@1210.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Originally Posted: 2026-04-01\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64709
+SUMMARY:📢 Field Trip Postponement ⏭️ (ENVS/SDP 202/252-L1)
+UID:3d22bf6b-20a0-454f-b860-02c05efbabd6@3d22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:Originally Posted: 2026-03-15\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63890
+SUMMARY:📢 Week 10 (LT/RL/PH 337-S1)
+UID:04417288-7a46-4b8f-826d-c3f69f188b81@0441.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Originally Posted: 2026-04-02\nhttps://hulms.instructure.com/courses/5000/discussion_topics/64723
+SUMMARY:📢 Class canceled due to weather (HIST 103-S1)
+UID:c5150214-b181-4495-b531-5f9457f5e7f0@c515.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Originally Posted: 2026-03-16\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63957
+SUMMARY:📢 Eco - Excursion Registration Form 🚗 (ENVS/SDP 202/252-L1)
+UID:9968aa3d-50d1-4d0a-92b7-4aeeea0bd7ae@9968.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Originally Posted: 2026-04-01\nhttps://hulms.instructure.com/courses/5060/discussion_topics/64708
+SUMMARY:📢 The Class is cancelled on Thursday April 2nd and Rescheduled for Saturday April 11th (LT/RL/PH 337-S1)
+UID:5c9b6bca-a41f-497c-931f-1a50d1c6d560@5c9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:Originally Posted: 2026-03-22\nhttps://hulms.instructure.com/courses/5060/discussion_topics/64080
+SUMMARY:📢 Final Reminder to submit your Weekly Reflections (LT/RL/PH 337-S1)
+UID:ff77139d-6460-49b7-ab11-e8aa66b16130@ff77.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:Originally Posted: 2026-03-08\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63594
+SUMMARY:📢 Water Quality Lab 🧪 (ENVS/SDP 202/252-L1)
+UID:f358d828-9dd4-4ff5-a956-b533320ffeba@f358.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Originally Posted: 2026-03-29\nhttps://hulms.instructure.com/courses/5014/discussion_topics/64513
+SUMMARY:📢 Readings and Activities this week (HUM/PHIL 401-S1)
+UID:73361a95-651a-4c35-9399-612748e51a03@7336.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Originally Posted: 2026-03-30\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64574
+SUMMARY:📢 Class back to IDEAL 🥵 (ENVS/SDP 202/252-L1)
+UID:80e0556e-236f-4fb5-a9d3-04491e1d6ff6@80e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Originally Posted: 2026-03-13\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63849
+SUMMARY:📢 📣 Quiz 02 and 03 Announcement  (ENVS/SDP 202/252-L1)
+UID:5d05d0d9-5e77-40d1-a4e0-63e07a1ea5ee@5d05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:Originally Posted: 2026-03-08\nhttps://hulms.instructure.com/courses/5060/discussion_topics/63592
+SUMMARY:📢 Week 9 Materials  (LT/RL/PH 337-S1)
+UID:77beed90-9171-4a46-a3da-f16e7ff9cfcc@77be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Originally Posted: 2026-03-30\nhttps://hulms.instructure.com/courses/5000/discussion_topics/64583
+SUMMARY:📢 In-Person Classes & Revised Schedule (HIST 103-S1)
+UID:16272046-9934-4232-a7a1-873accf01417@1627.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Originally Posted: 2026-03-23\nhttps://hulms.instructure.com/courses/5014/discussion_topics/64136
+SUMMARY:📢 This Week (HUM/PHIL 401-S1)
+UID:6ab12ec1-9fbe-4cb9-9d6b-660e0ab83f07@6ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4851/assignments/64918
+DTSTART:20260408T185900Z
+SUMMARY:📝 Quiz 2 - Transcendentalism (RL/MS/AT 333-S1)
+UID:bec62b9a-3e5c-40a0-bf38-e6dc2bb3802d@bec6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Originally Posted: 2026-04-03\nhttps://hulms.instructure.com/courses/5014/discussion_topics/64773
+SUMMARY:📢 No Office Hours Today (HUM/PHIL 401-S1)
+UID:643feda0-fe1f-4ae6-8ed7-6ebe33eba874@643f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Originally Posted: 2026-03-29\nhttps://hulms.instructure.com/courses/5054/discussion_topics/64519
+SUMMARY:📢 Your use of AI in Quiz 02 (ENVS/SDP 202/252-L1)
+UID:64cd4bc2-a587-4a48-be6f-21eb91e3fc80@64cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5060/assignments/65298
+DTSTART:20260403T185900Z
+SUMMARY:📝 Reflection Paper Week 12 (LT/RL/PH 337-S1)
+UID:52a103c7-ce9b-4ca0-b7eb-d7d100bcd7b9@52a1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DESCRIPTION:Originally Posted: 2026-03-27\nhttps://hulms.instructure.com/courses/5060/discussion_topics/64428
 SUMMARY:📢 About the outstanding assignments and Week 12 (LT/RL/PH 337-S1)
-UID:dfbbc1b4-9cc5-4a60-8f4e-d5924a55ae84@dfbb.org
+UID:333fc933-0ad1-4e98-846b-ec56cde55da3@333f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Originally Posted: 2026-03-09\nhttps://hulms.instructure.com/courses/5054/discussion_topics/63669
+SUMMARY:📢 🚗 Eco - Excursion Tour (aka field trip)  (ENVS/SDP 202/252-L1)
+UID:acd67d33-b5e0-424d-88ef-9c56073406b3@acd6.org
 END:VEVENT
 END:VCALENDAR
