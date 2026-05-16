@@ -3,110 +3,110 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
-DESCRIPTION:Originally Posted: 2026-04-30\nhttps://hulms.instructure.com/courses/5060/discussion_topics/66108
-SUMMARY:📢 Final Reminder about the Course Evaluations (LT/RL/PH 337-S1)
-UID:3c31ad3c-0948-4b99-bd7a-5e9bae3b58b7@3c31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-DESCRIPTION:Originally Posted: 2026-04-30\nhttps://hulms.instructure.com/courses/5060/discussion_topics/66115
-SUMMARY:📢 Important Update and Correction about the Place of the Final Exam: Please acknowledge the receipt of this message (LT/RL/PH 337-S1)
-UID:eedda47c-b52f-463a-b91a-a8e9a5536e0a@eedd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260427
-DESCRIPTION:Originally Posted: 2026-04-27\nhttps://hulms.instructure.com/courses/5060/discussion_topics/65894
-SUMMARY:📢 Week 16: The Module (LT/RL/PH 337-S1)
-UID:dc623c88-3c68-4f14-a351-07b25198373c@dc62.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-DESCRIPTION:Originally Posted: 2026-05-11\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66469
-SUMMARY:📢 Conversation Schedule (Time Slots) (HUM/PHIL 401-S1)
-UID:66963d33-1630-464d-95bb-f13d26d8cd7e@6696.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-DESCRIPTION:Originally Posted: 2026-05-12\nhttps://hulms.instructure.com/courses/5060/discussion_topics/66478
-SUMMARY:📢 Grades and outstanding assignments (LT/RL/PH 337-S1)
-UID:63fa46f4-c8ea-4e0f-a96a-1b1beeffb8b5@63fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-DESCRIPTION:Originally Posted: 2026-05-06\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66312
-SUMMARY:📢 One on One Conversation  (HUM/PHIL 401-S1)
-UID:752209bd-e528-4799-bfc9-4d5b3cdeb328@7522.org
+DESCRIPTION:Originally Posted: 2026-04-30\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66140
+SUMMARY:📢 Heidegger paper (HUM/PHIL 401-S1)
+UID:4a266467-bb6b-4390-b2d0-eb89b17dbc53@4a26.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:Originally Posted: 2026-04-29\nhttps://hulms.instructure.com/courses/5054/discussion_topics/66074
 SUMMARY:📢 Good bye and Good luck 🪴 (ENVS/SDP 202/252-L1)
-UID:7b65c137-ccc7-4e40-9a0d-20e4b60df09b@7b65.org
+UID:d6d14e74-946a-4e93-9e11-1d9f234297b4@d6d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DESCRIPTION:Originally Posted: 2026-04-30\nhttps://hulms.instructure.com/courses/5060/discussion_topics/66108
+SUMMARY:📢 Final Reminder about the Course Evaluations (LT/RL/PH 337-S1)
+UID:59ea0cf7-2d57-4582-ad42-29e2187b3ad0@59ea.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260420
 DESCRIPTION:Originally Posted: 2026-04-20\nhttps://hulms.instructure.com/courses/5060/discussion_topics/65555
 SUMMARY:📢 The Module for Week 15 and reminders (LT/RL/PH 337-S1)
-UID:cd36310a-5b1b-48b7-b954-7f98bc0576b2@cd36.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-DESCRIPTION:Originally Posted: 2026-04-15\nhttps://hulms.instructure.com/courses/5060/discussion_topics/65329
-SUMMARY:📢 Reminders for Tomorrow's class (LT/RL/PH 337-S1)
-UID:f300bc0b-380c-4e22-86ee-4ba13c1c308d@f300.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-DESCRIPTION:Originally Posted: 2026-05-06\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66311
-SUMMARY:📢 Heidegger Paper (HUM/PHIL 401-S1)
-UID:2fab9eb1-d121-45cd-ba77-9e2a8b4c390a@2fab.org
+UID:5b8bd070-ca15-48a9-a119-8f9b9a54c2ac@5b8b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
 DESCRIPTION:Originally Posted: 2026-04-19\nhttps://hulms.instructure.com/courses/5060/discussion_topics/65513
 SUMMARY:📢 Reminders: The Clock is Ticking\, folks! (LT/RL/PH 337-S1)
-UID:4bdcb49b-48e9-4cb4-8e51-0632d5e712cf@4bdc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Originally Posted: 2026-04-25\nhttps://hulms.instructure.com/courses/5014/discussion_topics/65831
-SUMMARY:📢 Agenda for the last week of class (HUM/PHIL 401-S1)
-UID:4dbd2143-980b-4641-9f8a-1bb1608cd634@4dbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Originally Posted: 2026-04-24\nhttps://hulms.instructure.com/courses/5060/discussion_topics/65780
-SUMMARY:📢 Course Evaluations (LT/RL/PH 337-S1)
-UID:9bbcbac4-831c-44bc-a991-c5c003862f61@9bbc.org
+UID:b52ee79c-69ae-4189-ad32-96b24fc8c1e4@b52e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
 DESCRIPTION:Originally Posted: 2026-04-18\nhttps://hulms.instructure.com/courses/5014/discussion_topics/65500
 SUMMARY:📢 This Week (HUM/PHIL 401-S1)
-UID:774118d9-1410-4eba-9737-4735d0daef23@7741.org
+UID:184709df-77aa-4a62-b4d6-d019c3bbc5f8@1847.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260427
+DESCRIPTION:Originally Posted: 2026-04-27\nhttps://hulms.instructure.com/courses/5060/discussion_topics/65894
+SUMMARY:📢 Week 16: The Module (LT/RL/PH 337-S1)
+UID:03c00d9f-02ec-470a-9091-ee86a091bc93@03c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+DESCRIPTION:Originally Posted: 2026-05-12\nhttps://hulms.instructure.com/courses/5060/discussion_topics/66478
+SUMMARY:📢 Grades and outstanding assignments (LT/RL/PH 337-S1)
+UID:7fc6e83a-324e-4e2b-9100-b577b4f9851f@7fc6.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
-DESCRIPTION:Originally Posted: 2026-05-11\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66473
-SUMMARY:📢 Lecture PDFs (HUM/PHIL 401-S1)
-UID:9eced2bf-be81-4b89-a252-a2e62575a1ab@9ece.org
+DESCRIPTION:Originally Posted: 2026-05-11\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66469
+SUMMARY:📢 Conversation Schedule (Time Slots) (HUM/PHIL 401-S1)
+UID:49fb5b6f-bdb9-446b-8339-e2910475dc5b@49fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Originally Posted: 2026-04-25\nhttps://hulms.instructure.com/courses/5014/discussion_topics/65831
+SUMMARY:📢 Agenda for the last week of class (HUM/PHIL 401-S1)
+UID:b2f9cbae-7aca-4664-ba13-0d0fd0aad2cc@b2f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Originally Posted: 2026-04-24\nhttps://hulms.instructure.com/courses/5060/discussion_topics/65780
+SUMMARY:📢 Course Evaluations (LT/RL/PH 337-S1)
+UID:0cb01e70-61e2-45c2-9d07-497965d501fd@0cb0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
 DESCRIPTION:Originally Posted: 2026-04-24\nhttps://hulms.instructure.com/courses/5054/discussion_topics/65781
 SUMMARY:📢 Field trip tomorrow! 🚗 (ENVS/SDP 202/252-L1)
-UID:6d730e09-3246-4b96-b360-ff5ccc4185c2@6d73.org
+UID:df9d2b42-df01-4e4c-8823-db21c66c2146@df9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5014/assignments/67027
+DTSTART:20260516T185959Z
+SUMMARY:📝 Paper 1 (HUM/PHIL 401-S1)
+UID:7a00fdf4-3ac1-4a3b-82f2-f20656393226@7a00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+DESCRIPTION:Originally Posted: 2026-05-11\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66473
+SUMMARY:📢 Lecture PDFs (HUM/PHIL 401-S1)
+UID:a3f442e7-127e-4662-9dd2-013c8eef6957@a3f4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
 DESCRIPTION:Originally Posted: 2026-05-10\nhttps://hulms.instructure.com/courses/5060/discussion_topics/66403
 SUMMARY:📢 Clock is ticking! (LT/RL/PH 337-S1)
-UID:203a7c07-36e0-4482-bebf-b7aa852915b6@203a.org
+UID:9d0c2ba3-4002-4bff-9057-65be8d01fb2f@9d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DESCRIPTION:Originally Posted: 2026-05-06\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66311
+SUMMARY:📢 Heidegger Paper (HUM/PHIL 401-S1)
+UID:8949186c-9546-4544-aae6-2f63e625f2ba@8949.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
-DESCRIPTION:Originally Posted: 2026-04-30\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66140
-SUMMARY:📢 Heidegger paper (HUM/PHIL 401-S1)
-UID:bb396df2-8542-4897-82a5-ae591a1aa835@bb39.org
+DESCRIPTION:Originally Posted: 2026-04-30\nhttps://hulms.instructure.com/courses/5060/discussion_topics/66115
+SUMMARY:📢 Important Update and Correction about the Place of the Final Exam: Please acknowledge the receipt of this message (LT/RL/PH 337-S1)
+UID:606aaa9b-78be-4625-9fca-018f30de6b90@606a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DESCRIPTION:Originally Posted: 2026-05-06\nhttps://hulms.instructure.com/courses/5014/discussion_topics/66312
+SUMMARY:📢 One on One Conversation  (HUM/PHIL 401-S1)
+UID:e16cfa0a-3437-4399-bce8-2221be101e57@e16c.org
 END:VEVENT
 END:VCALENDAR
